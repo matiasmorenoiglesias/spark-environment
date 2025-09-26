@@ -23,11 +23,6 @@ Este proyecto crea un clúster Apache Spark en modo standalone usando contenedor
 
 ---
 
-## 🐳 Imágenes utilizadas
-Para lograr el mejor rendimiento de este cluster se utiliza la imagen de openjdk:17-slim. (para jupyter se usa python:3.9-alpine)
-```bash
-FROM alpine:3.14
-```
 
 ## 🚀 Cómo levantar el clúster
 1. Crear red
