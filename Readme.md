@@ -1,6 +1,6 @@
 # 🔥 Apache Spark Cluster (Standalone con Docker)
 
-Este proyecto crea un clúster Apache Spark en modo standalone usando contenedores Docker (o Podman), ideal para pruebas locales o desarrollo distribuido.
+Este proyecto crea un cluster Apache Spark en modo standalone usando contenedores Docker (o Podman), ideal para pruebas locales o desarrollo distribuido.
 
 ---
 
@@ -101,10 +101,10 @@ git push origin feature/nombre-de-tu-feature
 - Prueba tus cambios localmente antes de enviar un PR.
 
 ### 🐛 Reportar errores o sugerencias
-- Si encontrás un problema o querés proponer una mejora, podés abrir un Issue, detallando:
+- Si encontrás un problema o querés proponer una mejora, puedes abrir un Issue, detallando:
     - Que estabas haciendo.
     - Que esperabas que pasara.
-    - Que ocurrió.
+    - Que ocurrio.
     - Logs, errores o capturas si es necesario.
 
 
